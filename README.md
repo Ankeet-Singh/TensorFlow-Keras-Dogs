@@ -1,4 +1,4 @@
-# TensorFlow-Keras-Dog-Breeds
+# TensorFlow-Keras-Dogs
 
 In this project, we use TensorFlow, Keras, and transfer learning to train a model that can identify breeds of dogs from their pictures. We will use the Stanford Dogs dataset for training our model available at: http://vision.stanford.edu/aditya86/ImageNetDogs
 For transfer learning, we will use the EfficientNetV2 model: https://www.tensorflow.org/api_docs/python/tf/keras/applications/EfficientNetV2B0 
